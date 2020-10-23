@@ -1,5 +1,5 @@
 package org.acme.config;
-
+//yeah
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 import org.jboss.logging.Logger;
 
