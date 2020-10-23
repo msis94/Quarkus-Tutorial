@@ -1,5 +1,5 @@
 package org.acme.resteasy;
-
+//test
 import javax.inject.Inject;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
